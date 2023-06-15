@@ -29,7 +29,7 @@ textarea {
   color: #000000;
   border-top: 1px dashed #000000;
 }
-
+/* Here are the css elements that need to be called into the javascript */ 
 .past {
   background-color: #d3d3d3;
   color: white;
