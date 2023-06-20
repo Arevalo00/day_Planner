@@ -2,8 +2,14 @@
 // the code isn't run until the browser has finished rendering all the elements
 // in the html.
 
+
+
+var present = document.getElementsByClassName('.present')
+var past = document.getElementsByClassName('.past')
+var future = document.getElementsByClassName('.future')
+
 // current day display part
-var currentDay = dayjs().format('DD/MM/YYYY');
+var currentDay = dayjs().format('MM/DD/YYYY');
 console.log(currentDay);
 
 $("#currentDay").text(currentDay);
@@ -22,11 +28,17 @@ $(function () {
     console.log(text)
 
 
-    //localStorage.setItem()
-    //localStorage.getItem()
+  
+    localStorage.setItem( '.saveBtn', JSON.stringify(text));
+    localStorage.getItem('.description');
+
 
   }) 
+
+
+
  
+// color change part 
 
 
 
