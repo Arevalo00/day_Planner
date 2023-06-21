@@ -3,12 +3,14 @@
 // in the html.
 
 
+//CSS classes  
 
 var present = document.getElementsByClassName('.present')
 var past = document.getElementsByClassName('.past')
 var future = document.getElementsByClassName('.future')
 
 // current day display part
+
 var currentDay = dayjs().format('MM/DD/YYYY');
 console.log(currentDay);
 
@@ -35,10 +37,21 @@ $(function () {
 
   }) 
 
+// time set up for color changing part 
+  const d = new Date();
+  let time = d.getTime();
+
+  console.log(d);
+  console.log(time)
 
 
  
 // color change part 
+
+
+if (hour < 18) {
+  greeting = "Good day";
+}
 
 
 
