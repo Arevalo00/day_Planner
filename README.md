@@ -4,12 +4,15 @@ When I started working on this project, I frist started by looking at the mock u
 
 Frist I got the starter code set up then I read the README which outlined all the things I needed in my day planner to work, the current day needs to display and the save button needs to save text to local storage and then finally the color needs to display the current. 
 
-User Story
+With the color changing element of the project, frist knew I would need the CSS class so I labled that part. Then created Vars for those classes so i can acess them in globle scoope. After that I worked to create a time var so I can capture the hour, and then i'll be able to set it to the CSS element with an 'if' statment. 
+
+## User Story
 
 AS AN employee with a busy schedule
 I WANT to add important events to a daily planner
 SO THAT I can manage my time effectively
-Acceptance Criteria
+
+## Acceptance Criteria
 
 GIVEN I am using a daily planner to create a schedule
 WHEN I open the planner

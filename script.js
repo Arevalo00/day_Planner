@@ -38,8 +38,8 @@ $(function () {
   }) 
 
 // time set up for color changing part 
-  const d = new Date();
-  let time = d.getTime();
+  var d = new Date();
+  var time = d.getTime();
 
   console.log(d);
   console.log(time)
@@ -49,8 +49,10 @@ $(function () {
 // color change part 
 
 
-if (hour < 18) {
-  greeting = "Good day";
+if (hour < time) {
+time === present
+
+ 
 }
 
 
