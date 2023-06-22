@@ -27,3 +27,12 @@ WHEN I click the save button for that time block
 THEN the text for that event is saved in local storage
 WHEN I refresh the page
 THEN the saved events persist
+
+## Link 
+
+https://github.com/Arevalo00/day_Planner
+
+https://arevalo00.github.io/day_Planner/
+
+## ScreenShots 
+
