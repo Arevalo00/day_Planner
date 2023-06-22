@@ -34,5 +34,17 @@ https://github.com/Arevalo00/day_Planner
 
 https://arevalo00.github.io/day_Planner/
 
-## ScreenShots 
+## Screen
+
+S![Screen Shot 2023-06-21 at 9 53 20 PM](https://github.com/Arevalo00/day_Planner/assets/132723412/2e20352d-f557-4f31-b68c-678da729c78c)
+
+
+
+![Screen Shot 2023-06-21 at 9 52 40 PM](https://github.com/Arevalo00/day_Planner/assets/132723412/907f9f15-e412-4176-bb81-44b2d80130b9)
+
+
+
+
+
+
 
