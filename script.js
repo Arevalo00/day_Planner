@@ -49,11 +49,12 @@ $(function () {
 // color change part 
 
 
-if (hour < time) {
-time === present
+//if (hour < time) {
+
+
 
  
-}
+//}
 
 
 
